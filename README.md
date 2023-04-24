@@ -1,2 +1,2 @@
-# Neural-Networks-Gurmukhi-Digits
-It consist of digit classification using the train and val images.
+# Convolution-Neural-Networks-
+It consist of finetune the model of train,val and test image datasets
